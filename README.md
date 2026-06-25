@@ -4,7 +4,8 @@ Minería de Textos y Sistemas de Diálogo (Market Intelligence)
 **Descripción:** 
 Se desarrolló una inteligencia de mercado basado en minería de textos utilizando el dataset Amazon Reviews. El sistema analiza reseñas de productos, identifica automáticamente su tópico latente y los temas principales tratados por los usuarios y sugiere respuestas automáticas mediante similitud textual. Finalmente, todos los resultados se integran en una aplicación web desarrollada en Streamlit.
 
-**Video expliacaión**
+*Video expliacaión*
+
 https://correoipn-my.sharepoint.com/:v:/g/personal/zsanchezp2300_alumno_ipn_mx/IQAwulOFvFxARZkeEqtqZvdvAeh0oXonvJkU5bOTtw4j0Mw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HOtdUr
 ----------------------------------------------------------------------------------------
 **Requisitos:**
